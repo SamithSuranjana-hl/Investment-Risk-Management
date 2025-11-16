@@ -2,7 +2,7 @@
 
 This project explores the risk and performance characteristics of major FAANG stocks and the S&P 500 using practical investment analysis techniques. It was completed as part of the Investment and Risk Management course on Coursera, with all calculations performed in Excel.
 
-Project Overview
+# Project Overview
 
 The goal of the project was to evaluate each asset’s risk profile, performance, and sensitivity to market movements. The analysis covers:
 
