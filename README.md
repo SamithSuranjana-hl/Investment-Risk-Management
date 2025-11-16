@@ -28,8 +28,7 @@ Summary tables comparing risk metrics across FAANG stocks and SPX
 
 Final output used in the Coursera assessment
 
-Key Insights
-
+Key Insights:
 Comparison of systematic risk (beta) across FAANG components
 
 Identification of assets with stronger risk-adjusted returns
@@ -38,14 +37,11 @@ Evaluation of downside risk under different confidence intervals
 
 How individual assets contribute to total portfolio risk
 
-Tools Used
-
-Microsoft Excel
+Tools Used : Microsoft Excel
 
 Financial functions and custom formulas
 
 Market data provided within the course
 
-Purpose
-
+Purpose:
 This project reflects my workflow for analyzing market behavior, evaluating risk, and interpreting performance metrics across equities. It forms part of my ongoing development in trading, market research, and quantitative analysis.
